@@ -1,6 +1,6 @@
+# Hey there!
 - 👋 Hi, I’m crissiano pires
 - 👀 I’m interested in technology and programming
-- 🌱 I’m currently learning java 
 - 📫 How to reach me crissiano_pires@hotmail.com 
 
 <!---
