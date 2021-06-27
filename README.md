@@ -1,6 +1,5 @@
 # Hey there!
-- 👋 Hi, I’m Crissiano Pires
-- 📫 How to reach me crissiano_pires@hotmail.com 
+## - 👋 Hi, I’m Crissiano Pires
 
 <a href="https://github.com/crissipires/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=crissipires&show_icons=true&theme=radical" />
