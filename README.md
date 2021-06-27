@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Crissiano Pires
 - 📫 How to reach me crissiano_pires@hotmail.com 
 
-![Crissipires's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crissipires&show_icons=true&theme=radical)
+<!-- ![Crissipires's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crissipires&show_icons=true&theme=radical) --->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crissipires&layout=compact&theme=radical)
 
