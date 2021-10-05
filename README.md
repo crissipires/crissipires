@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  <a href="crissianopiress@gmail.com" alt="Gmail">
+  <a mailto="crissianopiress@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=crissianopiress@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/crissiano-pires-a3b1881b2/" alt="Linkedin">
