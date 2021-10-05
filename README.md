@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Crissiano Pires
 - 🦄 Software Enginner Student
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left">
   <a href="crissianopiress@gmail.com" alt="Gmail">
