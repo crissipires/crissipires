@@ -1,15 +1,23 @@
 # Hey there!
-## - 👋 Hi, I’m Crissiano Pires
+- 👋 Hi, I’m Crissiano Pires
+- 🦄 Software Enginner Student
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=crissianopiress@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crissiano-pires-a3b1881b2/" /></a>
+  
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/crissipires/"/></a>
+</p>  
 
 <a href="https://github.com/crissipires/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=crissipires&show_icons=true&theme=radical&count_private=true&hide=prs&include_all_commits=true" />
 </a>
-
-<h3 align="left"> 📫 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/crissiano-pires-a3b1881b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/crissiano-pires-a3b1881b2/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/crissipires/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/crissipires/" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left"> 🛠️ Tools:</h3>
