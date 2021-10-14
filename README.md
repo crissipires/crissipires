@@ -1,5 +1,5 @@
 # Hey there!
-- 👋 Hi, I’m Crissiano Pires
+- 👋 I’m Crissiano Pires
 - 🦄 Software Enginner Student
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="300px" align="right" alt="Computador iuriCode">
