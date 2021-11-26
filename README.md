@@ -30,5 +30,5 @@
 <h3 align="left"> ⚡ Github Status:</h3>
 
 <a href="https://github.com/crissipires/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?          username=crissipires&show_icons=true&theme=radical&count_private=true&hide=prs&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crissipires&show_icons=true&theme=radical&count_private=true&hide=prs&include_all_commits=true" />
 </a>
