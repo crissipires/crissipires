@@ -22,11 +22,6 @@
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
-<h3 align="left"> 📚 Learning:</h3>
-
-![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
 <h3 align="left"> ⚡ Github Status:</h3>
 
 <a href="https://github.com/crissipires/github-readme-stats">
